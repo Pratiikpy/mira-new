@@ -9,63 +9,6 @@ const MemeGallery = () => {
   const memes = [
     {
       id: 1,
-      title: "VERI Busy",
-      creator: "@Vandyim1",
-      likes: 1247,
-      category: "Mascot Love",
-      image: "veri_busy_meme.png"
-    },
-    {
-      id: 2,
-      title: "Veri Adventures",
-      creator: "@crypto_memer",
-      likes: 892,
-      category: "Daily Grind",
-      image: "veri_adventures_meme.png"
-    },
-    {
-      id: 3,
-      title: "GMIRA Energy",
-      creator: "@mira_warrior",
-      likes: 1456,
-      category: "Campaign Feels",
-      image: "gmira_energy_meme.png"
-    },
-    {
-      id: 4,
-      title: "Consensus Simplified",
-      creator: "@blockchain_eli5",
-      likes: 967,
-      category: "Educational",
-      image: "consensus_simple_meme.png"
-    },
-    {
-      id: 5,
-      title: "Teddy Bear Consensus",
-      creator: "@cheff_eth",
-      likes: 834,
-      category: "Educational",
-      image: "teddy_bear_meme.png",
-      description: "Mira is like smart teddy bears checking banana claims"
-    },
-    {
-      id: 6,
-      title: "Quest Life",
-      creator: "@web3_builder",
-      likes: 734,
-      category: "Community",
-      image: "quest_life_meme.png"
-    },
-    {
-      id: 7,
-      title: "Yapping Legends",
-      creator: "@discord_king",
-      likes: 2103,
-      category: "Community",
-      image: "yapping_legends_meme.png"
-    },
-    {
-      id: 8,
       title: "OG Memer",
       creator: "@OG_memer",
       likes: 1876,
@@ -73,7 +16,7 @@ const MemeGallery = () => {
       image: "By OG memer.jpeg"
     },
     {
-      id: 9,
+      id: 2,
       title: "Team Efforts",
       creator: "@team_builder",
       likes: 2234,
@@ -81,7 +24,7 @@ const MemeGallery = () => {
       image: "Team efforts.jpeg"
     },
     {
-      id: 10,
+      id: 3,
       title: "Web3 Art",
       creator: "@myttle_web3",
       likes: 1543,
@@ -89,7 +32,7 @@ const MemeGallery = () => {
       image: "art by @myttle_web3.jpeg"
     },
     {
-      id: 11,
+      id: 4,
       title: "Shivam's Creation",
       creator: "@Ojha_shivam_005",
       likes: 1321,
@@ -97,7 +40,7 @@ const MemeGallery = () => {
       image: "meme by @Ojha_shivam_005.jpeg"
     },
     {
-      id: 12,
+      id: 5,
       title: "Khodwshm's Meme",
       creator: "@khodwshm",
       likes: 1987,
@@ -105,7 +48,7 @@ const MemeGallery = () => {
       image: "meme by @khodwshm.jpeg"
     },
     {
-      id: 13,
+      id: 6,
       title: "Vandyim's Special",
       creator: "@Vandyim1",
       likes: 2156,
@@ -113,7 +56,7 @@ const MemeGallery = () => {
       image: "meme by Vandyim1.png"
     },
     {
-      id: 14,
+      id: 7,
       title: "Community Post",
       creator: "@community_creator",
       likes: 1765,
