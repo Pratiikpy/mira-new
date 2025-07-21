@@ -1,0 +1,9 @@
+{
+  "name": "mira-legends",
+  "rootDirectory": "frontend",
+  "buildSettings": {
+    "buildCommand": "yarn build",
+    "publishDirectory": "build"
+  },
+  "nodeVersion": "18"
+}
