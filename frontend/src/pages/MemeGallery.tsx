@@ -146,7 +146,7 @@ const MemeGallery = () => {
           <div className="grid grid-cols-1 md:grid-cols-4 gap-6">
             <Card className="mira-card text-center">
               <CardContent className="p-6">
-                <div className="text-3xl font-bold text-primary mb-2">247</div>
+                <div className="text-3xl font-bold text-primary mb-2">7</div>
                 <p className="text-muted-foreground">Total Memes Created</p>
               </CardContent>
             </Card>
