@@ -40,6 +40,13 @@ const OGCreators = () => {
       twitter: "@hapchap88",
       pfp: "hapchap_pfp.png",
       bio: "Co-founder, product visionary"
+    },
+    {
+      name: "Asha",
+      role: "Core Team Member",
+      twitter: "@aashatwt",
+      pfp: "aasha_team_member_pfp.jpg",
+      bio: "Community builder and growth specialist"
     }
   ];
 
