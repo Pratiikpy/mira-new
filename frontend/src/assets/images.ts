@@ -36,6 +36,15 @@ export const imageMapping: Record<string, string> = {
   'quest_life_meme.png': 'viral_campaign_launch.jpeg',
   'yapping_legends_meme.png': 'yapper_leaderboard_announcement.jpeg',
   
+  // New meme images from gallery folder
+  'By OG memer.jpeg': 'By OG memer.jpeg',
+  'Team efforts.jpeg': 'Team efforts.jpeg',
+  'art by @myttle_web3.jpeg': 'art by @myttle_web3.jpeg',
+  'meme by @Ojha_shivam_005.jpeg': 'meme by @Ojha_shivam_005.jpeg',
+  'meme by @khodwshm.jpeg': 'meme by @khodwshm.jpeg',
+  'meme by Vandyim1.png': 'meme by Vandyim1.png',
+  'post by community.jpeg': 'post by community.jpeg',
+  
   // Direct mappings for existing files
   'community_awards_graphic.jpeg': 'community_awards_graphic.jpeg',
   'viral_campaign_launch.jpeg': 'viral_campaign_launch.jpeg',
