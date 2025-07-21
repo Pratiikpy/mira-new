@@ -62,6 +62,62 @@ const MemeGallery = () => {
       likes: 2103,
       category: "Community",
       image: "yapping_legends_meme.png"
+    },
+    {
+      id: 8,
+      title: "OG Memer",
+      creator: "@OG_memer",
+      likes: 1876,
+      category: "Community",
+      image: "By OG memer.jpeg"
+    },
+    {
+      id: 9,
+      title: "Team Efforts",
+      creator: "@team_builder",
+      likes: 2234,
+      category: "Community",
+      image: "Team efforts.jpeg"
+    },
+    {
+      id: 10,
+      title: "Web3 Art",
+      creator: "@myttle_web3",
+      likes: 1543,
+      category: "Daily Grind",
+      image: "art by @myttle_web3.jpeg"
+    },
+    {
+      id: 11,
+      title: "Shivam's Creation",
+      creator: "@Ojha_shivam_005",
+      likes: 1321,
+      category: "Mascot Love",
+      image: "meme by @Ojha_shivam_005.jpeg"
+    },
+    {
+      id: 12,
+      title: "Khodwshm's Meme",
+      creator: "@khodwshm",
+      likes: 1987,
+      category: "Campaign Feels",
+      image: "meme by @khodwshm.jpeg"
+    },
+    {
+      id: 13,
+      title: "Vandyim's Special",
+      creator: "@Vandyim1",
+      likes: 2156,
+      category: "Mascot Love",
+      image: "meme by Vandyim1.png"
+    },
+    {
+      id: 14,
+      title: "Community Post",
+      creator: "@community_creator",
+      likes: 1765,
+      category: "Community",
+      image: "post by community.jpeg"
     }
   ];
 
