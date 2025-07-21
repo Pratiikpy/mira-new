@@ -5,6 +5,7 @@ import { Card, CardContent } from "@/components/ui/card";
 import { getImagePath } from "@/lib/utils";
 
 const MemeGallery = () => {
+  // Updated with new meme gallery images - force refresh
   const memes = [
     {
       id: 1,
