@@ -9,16 +9,16 @@ const MemeGallery = () => {
   const memes = [
     {
       id: 1,
-      title: "OG Memer",
-      creator: "@OG_memer",
+      title: "By OG Memer",
+      creator: "OG_memer",
       likes: 1876,
       category: "Community",
       image: "By OG memer.jpeg"
     },
     {
       id: 2,
-      title: "Team Efforts",
-      creator: "@team_builder",
+      title: "Team Effort",
+      creator: "team_builder",
       likes: 2234,
       category: "Community",
       image: "Team efforts.jpeg"
@@ -26,7 +26,7 @@ const MemeGallery = () => {
     {
       id: 3,
       title: "Web3 Art",
-      creator: "@myttle_web3",
+      creator: "myttle_web3",
       likes: 1543,
       category: "Daily Grind",
       image: "art by @myttle_web3.jpeg"
@@ -34,7 +34,7 @@ const MemeGallery = () => {
     {
       id: 4,
       title: "Shivam's Creation",
-      creator: "@Ojha_shivam_005",
+      creator: "Ojha_shivam_005",
       likes: 1321,
       category: "Mascot Love",
       image: "meme by @Ojha_shivam_005.jpeg"
@@ -42,7 +42,7 @@ const MemeGallery = () => {
     {
       id: 5,
       title: "Khodwshm's Meme",
-      creator: "@khodwshm",
+      creator: "khodwshm",
       likes: 1987,
       category: "Campaign Feels",
       image: "meme by @khodwshm.jpeg"
@@ -50,7 +50,7 @@ const MemeGallery = () => {
     {
       id: 6,
       title: "Vandyim's Special",
-      creator: "@Vandyim1",
+      creator: "Vandyim1",
       likes: 2156,
       category: "Mascot Love",
       image: "meme by Vandyim1.png"
@@ -58,7 +58,7 @@ const MemeGallery = () => {
     {
       id: 7,
       title: "Community Post",
-      creator: "@community_creator",
+      creator: "community_creator",
       likes: 1765,
       category: "Community",
       image: "post by community.jpeg"
